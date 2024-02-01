@@ -1,0 +1,5 @@
+-Ho provato a fare l'esercitazione fino a dove son riuscito ovvero fino all'ISSUE 3.
+-ho avuto problemi con netbeans (non ho potuto mai potuto provare il mio codice perchè il mio netbeans non mi faceva mandare in esecuzione il tutto). 
+-per ricaricare tutto il progetto ho riscontrato lo stesso problema di Gabriele Silla e mi ha detto pure lui che l'unico modo era caricarlo via upload da github senza usare gitbash.
+-non so per quale motivo ma non mi fa eliminare il primo commit che ho fatto, mentre per i restanti file son riuscito per poi ricaricarli ("completi" e meglio organizzati).
+-ho fatto del mio meglio (_:
